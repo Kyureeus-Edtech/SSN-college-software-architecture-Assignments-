@@ -1,0 +1,25 @@
+# Env files
+.env
+*.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Node (if any)
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
