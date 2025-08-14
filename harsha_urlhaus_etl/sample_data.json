@@ -1,0 +1,27 @@
+{
+    "query_status": "ok",
+    "urls": [
+        {
+            "id": "1",
+            "url": "http://malicious-example.com/file.exe",
+            "threat": "malware_download",
+            "url_status": "online",
+            "date_added": "2025-08-14",
+            "tags": [
+                "exe",
+                "trojan"
+            ]
+        },
+        {
+            "id": "2",
+            "url": "http://badwebsite.com/malware.zip",
+            "threat": "malware_download",
+            "url_status": "offline",
+            "date_added": "2025-08-13",
+            "tags": [
+                "zip",
+                "ransomware"
+            ]
+        }
+    ]
+}
